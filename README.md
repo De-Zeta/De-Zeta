@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Zuain
 - 👀 I’m interested in technologies like Javascript, Node, SASS, React
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on FrontEnd projects
+- 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me davidzuain96@gmail.com
 
 <!---
